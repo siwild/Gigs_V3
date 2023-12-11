@@ -82,6 +82,8 @@ body {
     margin-top: 0.2em;
 }
 
+
+
 #homePageContainer {
     box-sizing: border-box;
     width: 60%;
@@ -150,6 +152,62 @@ body {
 
 #date {
     margin-left: 1em;
+}
+
+#registrationForm {
+    color: white;
+    background-color: black;
+    z-index: 999;
+    position: fixed;
+    top: 16%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    padding: 0.6em;
+    border: orange solid 1px;
+    border-radius: 3%;
+    max-width: 76%;
+    font-size: 2em;
+    animation: scaleFadeIn 0.3s forwards;
+}
+
+#userRegistrationForm {
+    text-align: right;
+}
+
+input[type="submit"] {
+    background-color: #ff0000;
+    color: #ffffff;
+    border: none; /
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+input[type="submit"]:hover {
+    background-color: #cc0000;
+
+}
+
+#loginForm {
+    color: white;
+    background-color: black;
+    z-index: 999;
+    position: fixed;
+    top: 16%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    padding: 0.6em;
+    border: orange solid 1px;
+    border-radius: 3%;
+    max-width: 76%;
+    font-size: 2em;
+    animation: scaleFadeIn 0.3s forwards;
+}
+
+#userLoginForm {
+    text-align: right;
 }
 
 .options-container {
