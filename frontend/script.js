@@ -1,5 +1,5 @@
 async function showOptions(category) {
-    const response = await fetch('http://localhost:5090/api/gigs');
+    const response = await fetch('http://fb01.decoded.com:5000/api/gigs');
     const data = await response.json();
 
     const optionsContainer = document.getElementById('optionsContainer');

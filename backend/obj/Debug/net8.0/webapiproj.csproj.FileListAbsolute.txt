@@ -1,0 +1,8 @@
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.csproj.AssemblyReference.cache
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.GeneratedMSBuildEditorConfig.editorconfig
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.AssemblyInfoInputs.cache
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.AssemblyInfo.cs
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.csproj.CoreCompileInputs.cache
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.MvcApplicationPartsAssemblyInfo.cs
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.MvcApplicationPartsAssemblyInfo.cache
+/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/Debug/net8.0/webapiproj.sourcelink.json

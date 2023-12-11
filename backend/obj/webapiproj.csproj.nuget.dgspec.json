@@ -1,44 +1,30 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\PhotonUser\\My Files\\Home Folder\\Gig_Tickets_App _V2.1\\Gig_Tickets_App_V2.1\\backend\\webapiproj.csproj": {}
+    "/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/webapiproj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PhotonUser\\My Files\\Home Folder\\Gig_Tickets_App _V2.1\\Gig_Tickets_App_V2.1\\backend\\webapiproj.csproj": {
+    "/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/webapiproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhotonUser\\My Files\\Home Folder\\Gig_Tickets_App _V2.1\\Gig_Tickets_App_V2.1\\backend\\webapiproj.csproj",
+        "projectUniqueName": "/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/webapiproj.csproj",
         "projectName": "webapiproj",
-        "projectPath": "C:\\Users\\PhotonUser\\My Files\\Home Folder\\Gig_Tickets_App _V2.1\\Gig_Tickets_App_V2.1\\backend\\webapiproj.csproj",
-        "packagesPath": "C:\\Users\\PhotonUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhotonUser\\My Files\\Home Folder\\Gig_Tickets_App _V2.1\\Gig_Tickets_App_V2.1\\backend\\obj\\",
-=======
-    "C:\\Users\\siwil\\Documents\\Software Engineering Course\\Gig_Ticket_App_V2\\Gig_Tickets_App_V2\\backend\\webapiproj.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\siwil\\Documents\\Software Engineering Course\\Gig_Ticket_App_V2\\Gig_Tickets_App_V2\\backend\\webapiproj.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\siwil\\Documents\\Software Engineering Course\\Gig_Ticket_App_V2\\Gig_Tickets_App_V2\\backend\\webapiproj.csproj",
-        "projectName": "webapiproj",
-        "projectPath": "C:\\Users\\siwil\\Documents\\Software Engineering Course\\Gig_Ticket_App_V2\\Gig_Tickets_App_V2\\backend\\webapiproj.csproj",
-        "packagesPath": "C:\\Users\\siwil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siwil\\Documents\\Software Engineering Course\\Gig_Ticket_App_V2\\Gig_Tickets_App_V2\\backend\\obj\\",
->>>>>>> 54a632b07b22607dedf41e5707a9dfa02976a4a5
+        "projectPath": "/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/webapiproj.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/opt/flipbook/public/learner/www/Gig_App/Gigs_V3/backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siwil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -49,12 +35,12 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -72,24 +58,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -98,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/228/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
