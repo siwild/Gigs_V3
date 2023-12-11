@@ -1,0 +1,136 @@
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\webapiproj.exe
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\webapiproj.deps.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\webapiproj.runtimeconfig.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\webapiproj.pdb
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.csproj.AssemblyReference.cache
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.AssemblyInfoInputs.cache
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.AssemblyInfo.cs
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.csproj.CoreCompileInputs.cache
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets\msbuild.webapiproj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\scopedcss\bundle\webapiproj.styles.css
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.csproj.CopyComplete
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\refint\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.pdb
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\webapiproj.genruntimeconfig.cache
+C:\Users\PhotonUser\My Files\Home Folder\MichaelsAPI\aviva-webproject-example\backend\obj\Debug\net7.0\ref\webapiproj.dll
+<<<<<<< HEAD
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.exe
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.deps.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.runtimeconfig.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.pdb
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.csproj.AssemblyReference.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.AssemblyInfoInputs.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.AssemblyInfo.cs
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.csproj.CoreCompileInputs.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.webapiproj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\scopedcss\bundle\webapiproj.styles.css
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.csproj.CopyComplete
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\refint\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.pdb
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.genruntimeconfig.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\ref\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\webapiproj.exe
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\webapiproj.deps.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\webapiproj.runtimeconfig.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\webapiproj.pdb
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.csproj.AssemblyReference.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.AssemblyInfoInputs.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.AssemblyInfo.cs
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.csproj.CoreCompileInputs.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets\msbuild.webapiproj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapiproj.props
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\scopedcss\bundle\webapiproj.styles.css
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.csproj.CopyComplete
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\refint\webapiproj.dll
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.pdb
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\webapiproj.genruntimeconfig.cache
+C:\Users\PhotonUser\My Files\Home Folder\Gig_Tickets_App _V2.1\Gig_Tickets_App_V2.1\backend\obj\Debug\net7.0\ref\webapiproj.dll
+=======
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.exe
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.deps.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.runtimeconfig.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\webapiproj.pdb
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.csproj.AssemblyReference.cache
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.AssemblyInfoInputs.cache
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.AssemblyInfo.cs
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.csproj.CoreCompileInputs.cache
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.sourcelink.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.webapiproj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.webapiproj.props
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webapiproj.props
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webapiproj.props
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\scopedcss\bundle\webapiproj.styles.css
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.csproj.CopyComplete
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\refint\webapiproj.dll
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.pdb
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\webapiproj.genruntimeconfig.cache
+C:\Users\siwil\Documents\Software Engineering Course\Gig_Ticket_App_V2\Gig_Tickets_App_V2\backend\obj\Debug\net7.0\ref\webapiproj.dll
+>>>>>>> 54a632b07b22607dedf41e5707a9dfa02976a4a5

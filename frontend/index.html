@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just Gigs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="homePage">
+        <div id="homePageContainer">    
+            <div>
+                <div class="L_R_Text">
+                  <section id="AR">Already registered?</section>
+                  <section id="FTH">First time here?</section>
+                </div>
+                <div class="L_R_Buttons">
+                  <section id="login">Login</section>
+                  <section id="register">Register</section>
+                </div>
+            </div>
+            <div id ="specificSearch">
+                <section id="genre" onmouseover="expLeft(this)" onmouseout="restorePos(this)" onclick="showOptions('genre')">Genre</section>
+                <section id="location" onmouseover="expLeft(this)" onmouseout="restorePos(this)" onclick="showOptions('location')">Location</section>
+                <section id="venue" onmouseover="expLeft(this)" onmouseout="restorePos(this)" onclick="showOptions('venue')">Venue</section>
+                <section id="date" onmouseover="expLeft(this)" onmouseout="restorePos(this)" onclick="showOptions('date')">Date</section>
+            </div>
+            <div id="logo">
+                <img src="Images/Logo.png" alt="JGLogo">   
+            </div>
+
+            <div id="optionsContainer" class="options-container"></div>
+        </div>
+    </div>
+    
+    <div id="gigsPage" style="display: none;">
+        <div id="gigsPageContainer">
+            
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+
+    
+
+
+</body>
+
+
+
+
+</html>

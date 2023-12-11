@@ -1,0 +1,28 @@
+JavaScript Functions:
+
+
+showOptions function:
+
+Triggered by clicking on the headers.
+
+It's an asynchronous function (async) that performs tasks asynchronously, like fetching data from a file (JSON in this case).
+
+It starts by fetching the JSON file using fetch('gigs.json'). This gets the data.
+
+await response.json() converts the fetched data into a JavaScript object (data) that can be used in the code.
+
+It finds all unique options available for the selected category by looping through the gigs in the data.
+
+It creates an empty list (ul) to store the options.
+
+For each unique option found, it creates a list item (li) and sets its text content to the option.
+
+Finally, it appends these list items to the empty list and displays the list in the optionsContainer.
+
+
+How it Works Overall:
+
+When a category header is clicked, the showOptions function is triggered.
+This function reads the JSON file and extracts unique options related to the clicked category (like genres, locations, venues, or dates) from the JSON data.
+It then dynamically creates a list of these options and displays them in the webpage's optionsContainer.
+So, when you click on "Genre," "Location," "Venue," or "Date," the code fetches the data, identifies unique options for the selected category, and displays these options in a list on the webpage.
