@@ -35,6 +35,21 @@ async function showOptions(category) {
     optionsContainer.style.display = 'block';
 }
 
+//Function to ensure the login and register forms close if a user clicks away:
+
+
+document.body.addEventListener('click', function(event) {
+    const registrationForm = document.getElementById('registrationForm');
+    const loginForm = document.getElementById('loginForm');
+
+    // Check if the clicked element is not within the registration or login forms
+    if (event.target !== registrationForm && !registrationForm.contains(event.target) &&
+        event.target !== loginForm && !loginForm.contains(event.target)) {
+        registrationForm.style.display = 'none';
+        loginForm.style.display = 'none';
+    }
+});
+
 
 //Below code is for registration
 
@@ -110,7 +125,6 @@ function loginUser() {
         alert('Incorrect username or password. Please try again.');
     }
 }
-
 
 //Below function...
 
