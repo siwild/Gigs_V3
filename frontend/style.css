@@ -24,6 +24,8 @@ body {
     left: 1em;
     z-index: 999;
     animation: hueRotate 5s linear infinite;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 2px rgb(249 162 54 / 50%);
 }
 
 .logo img {
@@ -34,6 +36,8 @@ body {
     left: 1em;
     z-index: 999;
     animation: hueRotate 5s linear infinite;
+    border-radius: 50%;
+    box-shadow: 0 0 8px 2px rgb(249 162 54 / 50%);
 }
 
 @keyframes hueRotate {
@@ -166,8 +170,9 @@ body {
 }
 
 #registrationForm {
-    color: white;
-    background-color: black;
+    box-shadow: 0px 0px 10px rgb(90, 57, 7);
+    color: black;
+    background-color: #819ccf;
     z-index: 999;
     position: fixed;
     top: 16%;
@@ -186,14 +191,12 @@ body {
 }
 
 input[type="submit"] {
-    background-color: #ff0000;
+    background-color: #000000;
     color: #ffffff;
-    border: none; /
-    padding: 10px 20px;
-    border-radius: 3%;
-    font-size: 1.5;
+    padding: 0.2em;
+    font-size: 0.5em;
     cursor: pointer;
-
+    border: none;
 }
 
 input[type="submit"]:hover {
@@ -202,8 +205,9 @@ input[type="submit"]:hover {
 }
 
 #loginForm {
-    color: white;
-    background-color: black;
+    box-shadow: 0px 0px 10px rgb(90, 57, 7);
+    color: black;
+    background-color: #819ccf;
     z-index: 999;
     position: fixed;
     top: 16%;
@@ -221,8 +225,22 @@ input[type="submit"]:hover {
     text-align: right;
 }
 
+input[type="button"] {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 0.2em;
+    font-size: 0.5em;
+    cursor: pointer;
+    border: none;
+}
+
+input[type="button"]:hover {
+    background-color: #cc0000;
+
+}
+
 #userProfile {
-    top
+    
 }
 
 .options-container {

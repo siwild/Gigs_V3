@@ -1,14 +1,14 @@
 //Below function...
 
 async function showOptions(category) {
-    const response = await fetch('http://fb01.decoded.com:5000/api/gigs');   
+    const response = await fetch('gigs.json');    'http://fb01.decoded.com:5000/api/gigs'
     const data = await response.json();
 
     const optionsContainer = document.getElementById('optionsContainer');
     optionsContainer.innerHTML = '';
 
     const uniqueOptions = new Set();
-    data.forEach(gig => uniqueOptions.add(gig[category]));
+    data.gigs.forEach(gig => uniqueOptions.add(gig[category]));
 
     const optionsList = document.createElement('div');
     uniqueOptions.forEach(option => {
@@ -34,21 +34,6 @@ async function showOptions(category) {
     optionsContainer.appendChild(closeButton);
     optionsContainer.style.display = 'block';
 }
-
-//Function to ensure the login and register forms close if a user clicks away:
-
-
-document.body.addEventListener('click', function(event) {
-    const registrationForm = document.getElementById('registrationForm');
-    const loginForm = document.getElementById('loginForm');
-
-    // Check if the clicked element is not within the registration or login forms
-    if (event.target !== registrationForm && !registrationForm.contains(event.target) &&
-        event.target !== loginForm && !loginForm.contains(event.target)) {
-        registrationForm.style.display = 'none';
-        loginForm.style.display = 'none';
-    }
-});
 
 
 //Below code is for registration
@@ -126,6 +111,29 @@ function loginUser() {
     }
 }
 
+//Function to ensure the login and register forms close if a user clicks away:
+
+
+document.body.addEventListener('click', function(event) {
+    const registrationForm = document.getElementById('registrationForm');
+    const loginForm = document.getElementById('loginForm');
+    const loginButton = document.getElementById('login');
+    const registerButton = document.getElementById('register');
+
+    // Check if the clicked element is not within the registration or login forms,
+    // and not the login/register buttons
+    if (
+        event.target !== registrationForm && !registrationForm.contains(event.target) &&
+        event.target !== loginForm && !loginForm.contains(event.target) &&
+        event.target !== loginButton && event.target !== registerButton
+    ) {
+        registrationForm.style.display = 'none';
+        loginForm.style.display = 'none';
+    }
+});
+
+
+
 //Below function...
 
 function showGigsPage(category, selectedOption, data) {
@@ -142,7 +150,7 @@ function showGigsPage(category, selectedOption, data) {
     gigsLogo.classList.add('logo');
     gigsPageContainer.appendChild(gigsLogo);
 
-    const filteredGigs = data.filter(gig => gig[category] === selectedOption);
+    const filteredGigs = data.gigs.filter(gig => gig[category] === selectedOption);
 
     const gigTemplate = `
         <div class="gig-element">
