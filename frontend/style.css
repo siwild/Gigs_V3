@@ -23,6 +23,7 @@ body {
     top: 1em;
     left: 1em;
     z-index: 999;
+    animation: hueRotate 5s linear infinite;
 }
 
 .logo img {
@@ -32,6 +33,16 @@ body {
     top: 1em;
     left: 1em;
     z-index: 999;
+    animation: hueRotate 5s linear infinite;
+}
+
+@keyframes hueRotate {
+    0% {
+        filter: hue-rotate(0deg);
+    }
+    100% {
+        filter: hue-rotate(360deg);
+    }
 }
 
 .L_R_Text {
@@ -166,7 +177,7 @@ body {
     border: orange solid 1px;
     border-radius: 3%;
     max-width: 76%;
-    font-size: 2em;
+    font-size: 1.5em;
     animation: scaleFadeIn 0.3s forwards;
 }
 
@@ -179,8 +190,8 @@ input[type="submit"] {
     color: #ffffff;
     border: none; /
     padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 16px;
+    border-radius: 3%;
+    font-size: 1.5;
     cursor: pointer;
 
 }
@@ -202,12 +213,16 @@ input[type="submit"]:hover {
     border: orange solid 1px;
     border-radius: 3%;
     max-width: 76%;
-    font-size: 2em;
+    font-size: 1.5em;
     animation: scaleFadeIn 0.3s forwards;
 }
 
 #userLoginForm {
     text-align: right;
+}
+
+#userProfile {
+    top
 }
 
 .options-container {
@@ -299,13 +314,31 @@ input[type="submit"]:hover {
     box-shadow: 5px 5px 10px #888888;
 }
 
-.gig-element .gig-details {
+.gig-element .gig-details{
     flex: 1;
     display: flex;
     flex-direction: column;
     margin: 0.9em 0em 0em 1em;
 }
 
-.gig-element .gig-details .gig-detail {
+.gig-element .gig-details .gig-detail{
     margin-bottom: 0.3em;   
+}
+
+.buyTickets {
+    font-size: 0.8em;
+    color: black;
+    background-color: orange;
+    margin: auto;
+    padding: 0.6em;
+    margin-right: 1.7em;
+    border-radius: 27%;
+    box-shadow: 0px 0 5px 0px;
+    cursor: pointer;
+    transition: ease-in-out 0.5s;
+}
+
+.buyTickets:hover {
+    color: orange;
+    background-color: black;
 }

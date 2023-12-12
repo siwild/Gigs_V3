@@ -1,14 +1,14 @@
 //Below function...
 
 async function showOptions(category) {
-    const response = await fetch('gigs.json');    //'http://fb01.decoded.com:5000/api/gigs'
+    const response = await fetch('http://fb01.decoded.com:5000/api/gigs');   
     const data = await response.json();
 
     const optionsContainer = document.getElementById('optionsContainer');
     optionsContainer.innerHTML = '';
 
     const uniqueOptions = new Set();
-    data.gigs.forEach(gig => uniqueOptions.add(gig[category]));
+    data.forEach(gig => uniqueOptions.add(gig[category]));
 
     const optionsList = document.createElement('div');
     uniqueOptions.forEach(option => {
@@ -128,7 +128,7 @@ function showGigsPage(category, selectedOption, data) {
     gigsLogo.classList.add('logo');
     gigsPageContainer.appendChild(gigsLogo);
 
-    const filteredGigs = data.gigs.filter(gig => gig[category] === selectedOption);
+    const filteredGigs = data.filter(gig => gig[category] === selectedOption);
 
     const gigTemplate = `
         <div class="gig-element">
@@ -141,6 +141,7 @@ function showGigsPage(category, selectedOption, data) {
                 <div class="gig-detail">Venue: {{venue}}</div>
                 <div class="gig-detail">Price: {{price}}</div>
             </div>
+            <div class="buyTickets">I want in!<br>Purchase</div>
         </div>
     `;
 
