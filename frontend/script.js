@@ -102,9 +102,29 @@ function loginUser() {
 
         // Show user profile section
         const userProfile = document.createElement('section');
-        userProfile.textContent = `Welcome, ${enteredUsername}! (User Profile)`;
         userProfile.setAttribute('id', 'userProfile');
-        document.getElementById('homePageContainer').appendChild(userProfile);
+        
+        // Create and add user image
+        const userImage = document.createElement('img');
+        userImage.setAttribute('src', 'Images/UserProfile.png'); // Replace 'path_to_your_image.jpg' with the actual path to your image
+        userImage.setAttribute('alt', 'User Image');
+        userProfile.appendChild(userImage);
+
+        // Create and add user welcome message
+        const welcomeMessage = document.createElement('h2');
+        welcomeMessage.textContent = `${enteredUsername}`;
+        userProfile.appendChild(welcomeMessage);
+
+
+        // Add CSS classes for styling
+        userProfile.classList.add('user-profile');
+        welcomeMessage.classList.add('welcome-message');
+        userImage.classList.add('user-image');
+        
+        // Append the user profile to the home page container
+        const homePageContainer = document.getElementById('homePageContainer');
+        homePageContainer.appendChild(userProfile);
+    
     } else {
         // Display an error message for incorrect login details
         alert('Incorrect username or password. Please try again.');

@@ -239,8 +239,31 @@ input[type="button"]:hover {
 
 }
 
-#userProfile {
-    
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 8px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+/* CSS styles for welcome message */
+.welcome-message {
+    font-size: 1em;
+}
+
+/* CSS styles for user image */
+.user-image {
+    width: 8em;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: -0.7em;
 }
 
 .options-container {
