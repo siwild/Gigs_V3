@@ -49,6 +49,50 @@ body {
     }
 }
 
+#justGigs {
+    color: white;
+    font-size: 4.5em;
+    position: absolute;
+    top: 0.4em;
+    left: 3.5em;
+    text-align: center;
+    line-height: 0.9em;
+    text-shadow: -1px -1px 4px #ff9800a6,
+                  1px -1px 4px #ff9800a6,
+                 -1px  1px 4px #ff9800a6,
+                  1px  1px 4px #ff9800a6;
+}
+
+.justGigs {
+    color: white;
+    font-size: 4.5em;
+    position: absolute;
+    top: 0.4em;
+    left: 3.5em;
+    text-align: center;
+    line-height: 0.9em;
+    text-shadow: -1px -1px 4px #ff9800a6,
+                  1px -1px 4px #ff9800a6,
+                 -1px  1px 4px #ff9800a6,
+                  1px  1px 4px #ff9800a6;
+}
+
+#slogan {
+    color: white;
+    font-size: 1.1em;
+    position: absolute;
+    top: 9.2em;
+    left: 14.5em;
+}
+
+.slogan {
+    color: white;
+    font-size: 1.1em;
+    position: absolute;
+    top: 9.2em;
+    left: 14.5em;
+}
+
 .L_R_Text {
     display: flex;
     flex-direction: column;
@@ -252,12 +296,10 @@ input[type="button"]:hover {
     right: 20px;
 }
 
-/* CSS styles for welcome message */
 .welcome-message {
     font-size: 1em;
 }
 
-/* CSS styles for user image */
 .user-image {
     width: 8em;
     height: auto;
@@ -265,6 +307,7 @@ input[type="button"]:hover {
     object-fit: cover;
     margin-bottom: -0.3em;
     opacity: 85%;
+    cursor: pointer;
 }
 
 #root {
@@ -279,8 +322,8 @@ input[type="button"]:hover {
     flex-direction: column;
     align-items: center;
     position: absolute;
-    padding: 0.8em;
-    margin-top: 4em;
+    padding: 0.7em 0.7em 0em 0.7em;
+    margin-top: 3.7em;
 }
 
 #FavouriteBandCounter {
@@ -295,7 +338,9 @@ input[type="button"]:hover {
 }
 
 #beatlesButton {
-    font-size: 0.9em;
+    font-family: 'AdventPro', sans-serif;
+    font-weight: 900;
+    font-size: 1em;
     margin: -0.9em 0.2em 1em 0.2em;
     background-size: contain;
     padding: 2em 0em 1.9em 0em;
@@ -305,7 +350,9 @@ input[type="button"]:hover {
 }
 
 #stonesButton {
-    font-size: 0.9em;
+    font-family: 'AdventPro', sans-serif;
+    font-weight: 900;
+    font-size: 1em;
     margin: -0.7em 0.1em 1em 0.2em;
     background-size: contain;
     padding: 1.4em 0em 1.5em 0em;
@@ -320,6 +367,7 @@ input[type="button"]:hover {
     z-index: 999;
     background-color: rgb(195 127 28);
     padding: 1em;
+    border: 1px solid black;
     border-radius: 1em;
     box-shadow: 0px 0px 10px rgb(90, 57, 7);
     transform: translate(-50%, -50%);
@@ -354,17 +402,23 @@ input[type="button"]:hover {
 }
 
 .close-button {
-    background-color: white;
-    color: black;
-    border: black;
-    border-radius: 50%;
-    padding: 8px 16px;
-    cursor: pointer;
-    display: block;
+    font-family: 'AdventPro', sans-serif;
+    font-weight: 900;
+    display: flex;
+    font-size: 1em;
+    color: white;
+    background-color: #000000;
     margin: auto;
-    margin-top: 1em;
+    margin-top: 1.3em;
+    padding: 0.3em;
+    border-radius: 20%;
+    box-shadow: 0px 0px 5px 5px rgb(203 30 30 / 51%);
+    cursor: pointer;
 }
 
+.close-button:hover {
+    background-color: #c70e0e
+}
 
 @keyframes scaleFadeIn {
     from {
@@ -430,4 +484,23 @@ input[type="button"]:hover {
 .buyTickets:hover {
     color: orange;
     background-color: black;
+}
+
+.home-button {
+    font-family: 'AdventPro', sans-serif;
+    font-weight: 900;
+    display: flex;
+    font-size: 1em;
+    color: white;
+    background-color: #c17214;
+    margin: auto;
+    margin-top: 1.3em;
+    padding: 0.3em;
+    border-radius: 20%;
+    box-shadow: 0px 0px 5px 5px rgb(203 30 30 / 51%);
+    cursor: pointer;
+}
+
+.home-button:hover {
+    background-color: #c70e0e
 }

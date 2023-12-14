@@ -154,7 +154,9 @@ document.body.addEventListener('click', function(event) {
 
 
 
-//Below function...
+//Below function creates the gigsPage which is accessed by selecting an option from the 
+//optionsContainer. Content of the gigsPage is generated dynamically based on what the user
+//has selected, and the details are added to the html template.
 
 function showGigsPage(category, selectedOption, data) {
     const homePage = document.getElementById('homePage');
@@ -165,10 +167,24 @@ function showGigsPage(category, selectedOption, data) {
     gigsPage.style.display = 'block';
     gigsPageContainer.innerHTML = '';
 
+//The 12 lines below ensure the JG logo and JUST GIGS text appear on the gigsPage when homePage 
+//is hidden:
+    
     const gigsLogo = document.createElement('div');
+    const justGigs = document.createElement('div');
+    const slogan = document.createElement('div');
+
     gigsLogo.innerHTML = '<img src="Images/Logo.png" alt="JGLogo">';
+    justGigs.innerHTML = 'JUST<br>GIGS';
+    slogan.innerHTML = 'The place for music fanatics.';
+
     gigsLogo.classList.add('logo');
+    justGigs.classList.add('justGigs');
+    slogan.classList.add('slogan');
+
     gigsPageContainer.appendChild(gigsLogo);
+    gigsPageContainer.appendChild(justGigs);
+    gigsPageContainer.appendChild(slogan);
 
     const filteredGigs = data.filter(gig => gig[category] === selectedOption);
 
@@ -199,6 +215,16 @@ function showGigsPage(category, selectedOption, data) {
         gigElement.innerHTML = filledTemplate.trim();
         gigsPageContainer.appendChild(gigElement.firstChild);
     });
+
+    const homeButton = document.createElement('button');
+        homeButton.textContent = 'Back Home';
+        homeButton.classList.add('home-button')
+        homeButton.addEventListener('click', () => {
+            gigsPage.style.display = 'none';
+            homePage.style.display = 'block';
+    });
+
+    gigsPageContainer.appendChild(homeButton);
 }
 
 function hideOptions() {
