@@ -24,7 +24,15 @@ namespace GigsApi.Controllers
             new Gig(11, "R&B", "Beyonce", "28-04-2024", "London", "London - The O2", "£120.00", "Beyonce.jpg"),
             new Gig(12, "Pop", "Take That", "11-08-2024", "Edinburgh", "Edinburgh - O2 Academy", "£52.60", "TakeThat.jpg"),
             new Gig(13, "Electronic", "Fatboy Slim", "02-10-2024", "Edinburgh", "Edinburgh - O2 Academy", "£44.99", "FatboySlim.jpg"),
-            new Gig(14, "Hip Hop", "Stormzy", "02-12-2024", "Edinburgh", "Edinburgh - O2 Academy", "£79.99", "Stormzy.jpg")
+            new Gig(14, "Hip Hop", "Stormzy", "02-12-2024", "Edinburgh", "Edinburgh - O2 Academy", "£79.99", "Stormzy.jpg"),
+            new Gig(15, "Hip Hop", "Eminem", "02-11-2024", "London", "London - The O2", "£84.99", "Eminem.jpg"),
+            new Gig(16, "Indie", "Ocean Colour Scene", "03-03-2024", "Sheffield", "Sheffield - O2 Academy", "£44.50", "OCS.jpg"),
+            new Gig(17, "Indie", "Shed Seven", "01-04-2024", "Manchester", "Manchester - AO Arena", "£34.50", "ShedSeven.jpg"),
+            new Gig(18, "Pop", "Taylor Swift", "21-08-2024", "London", "London - The O2", "£84.75", "TaylorSwift.jpg"),
+            new Gig(19, "Pop", "Girls Aloud", "21-09-2024", "Edinburgh", "Edinburgh - O2 Academy", "£74.75", "GirlsAloud.jpg"),
+            new Gig(20, "Rock & Roll", "The Who", "21-09-2024", "London", "London - The O2", "£82.49", "TheWho.jpg"),
+            new Gig(21, "R&B", "Usher", "28-01-2024", "Manchester", "Manchester - Etihad Stadium", "£110.00", "Usher.jpg"),
+            new Gig(21, "R&B", "John legend", "27-03-2024", "Edinburgh", "Edinburgh - O2 Academy", "£80.00", "JohnLegend.jpg")
         };
 
         [HttpGet]
